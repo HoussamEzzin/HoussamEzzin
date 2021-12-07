@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-<img src = "imgaes/img" > IT Engineering student, Mohammadia School of Engineers.
+<img src="images/images.png" alt=""> IT Engineering student, Mohammadia School of Engineers.
 
 - 🔭 I’m currently working on web develpment projects and cybersecurity tools.
 - 🌱 I’m currently learning Django, Flutter and React.
