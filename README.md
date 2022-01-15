@@ -5,7 +5,7 @@
 
 IT Engineering student, Mohammadia School of Engineers.
 
-- 🔭 I’m currently working on web develpment projects and cybersecurity tools.
+- 🔭 I’m currently working on web/mobile development projects, cybersecurity tools and machine learning.
 - 🌱 I’m currently learning Django, Flutter and React.
 - 💻 I use daily **.java**, **.py**, **.js**, **.sql**
 - 💬 Ask me about technology, philosophy and science !
