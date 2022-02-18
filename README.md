@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<img src="images/images.png" alt="" width="100">
+<img src="images/images.png" alt="" width="300">
 
 
-Full-Stack Engineer and IT Engineering student, Mohammadia School of Engineers.
+Full-Stack Engineer || IT Engineering student
+
+Mohammadia School of Engineers
 
 - 🔭 I’m currently working on web/mobile development projects, cybersecurity tools and machine learning.
 - 🌱 I’m currently learning Django, Flutter and React.
