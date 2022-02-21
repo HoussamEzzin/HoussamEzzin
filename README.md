@@ -3,7 +3,7 @@
 <img src="images/images.png" alt="" width="300">
 
 
-Full-Stack Engineer || IT Engineering student
+Full-Stack Developer || IT Engineering student
 
 Mohammadia School of Engineers
 
