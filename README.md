@@ -9,7 +9,6 @@ Mohammadia School of Engineers
 
 - 🔭 I’m currently working on web/mobile development projects, cybersecurity tools and machine learning.
 - 🌱 I’m an expert in Full-Stack development using Django and React.
-- 💻 I use daily **.java**, **.py**, **.js**, **.sql**
 - 💬 Ask me about technology, philosophy and science !
 - 📫 How to reach me: ezzinhoussam@gmail.com & houssamezzin@student.emi.ac.ma
 - ⚡ Fun fact: Je parle Français
