@@ -8,7 +8,6 @@ Full-Stack Developer || IT Engineering student
 Mohammadia School of Engineers
 
 - 🔭 I’m currently working on web/mobile development projects, cybersecurity tools and machine learning.
-- 🌱 I’m an expert in Full-Stack development using Django and React.
 - 💬 Ask me about technology, philosophy and science !
 - 📫 How to reach me: ezzinhoussam@gmail.com & houssamezzin@student.emi.ac.ma
 - ⚡ Fun fact: Je parle Français
@@ -26,6 +25,7 @@ Mohammadia School of Engineers
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="spring" width="55" height="55"/>
