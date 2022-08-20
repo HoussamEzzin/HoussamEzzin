@@ -28,6 +28,11 @@ Mohammadia School of Engineers
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=houssamezzin&show_icons=true&locale=en&layout=compact" alt="houssamezzin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houssamezzin&show_icons=true&locale=en" alt="houssamezzin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=houssamezzin&" alt="houssamezzin" /></p>
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
