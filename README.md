@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<div align="center">
-  
-<img src="images/images.png" alt="" width="300" >
-  </div>
+
   
 
 
@@ -20,7 +17,10 @@ Mohammadia School of Engineers
 - 💬 Ask me about technology, philosophy and science !
 - 📫 How to reach me: ezzinhoussam@gmail.com & houssamezzin@student.emi.ac.ma
 - ⚡ Fun fact: Je parle Français
-
+<div align="center">
+  
+<img src="images/images.png" alt="" width="300" >
+  </div>
 <p align="center">
 <a href="https://twitter.com/_houssamm_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/houssam-ezzin-b16757155/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
