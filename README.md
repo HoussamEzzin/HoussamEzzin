@@ -10,8 +10,10 @@
 <div align="center">
   
 <img src="images/images.png" alt="" width="300" >
-  Mohammadia School of Engineers
+ 
   </div>
+  
+  <p align="center">Mohammadia School of Engineers</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houssamezzin" alt="houssamezzin" /></a> </p>
 
