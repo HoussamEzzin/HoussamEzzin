@@ -26,14 +26,14 @@
 - ⚡ Fun fact: Je parle Français
 
 <p align="center">
-<a href="https://twitter.com/_houssamm_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
+<a color="deepskyblue" href="https://twitter.com/_houssamm_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/houssam-ezzin-b16757155/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 
 
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoussamEzzin)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
