@@ -3,7 +3,10 @@
 <img src="images/images.png" alt="" width="300">
 
 
-Full-Stack Developer || IT Engineering student
+<h1 align="center">I'm Ezzin Houssam</h1>
+<h3 align="center">IT Engineer and Full-Stack Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=houssamezzin&label=Profile%20views&color=0e75b6&style=flat" alt="houssamezzin" /> </p>
 
 Mohammadia School of Engineers
 
