@@ -7,20 +7,22 @@
 <h1 align="center">I'm Ezzin Houssam</h1>
 <h3 align="center">IT Engineer and Full-Stack Developer</h3>
 
+<div align="center">
+  
+<img src="images/images.png" alt="" width="300" >
+  Mohammadia School of Engineers
+  </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houssamezzin" alt="houssamezzin" /></a> </p>
 
 
-Mohammadia School of Engineers
+
 
 - 🔭 I’m currently working on web/mobile development projects, cybersecurity tools and machine learning.
 - 💬 Ask me about technology, philosophy and science !
 - 📫 How to reach me: ezzinhoussam@gmail.com & houssamezzin@student.emi.ac.ma
 - ⚡ Fun fact: Je parle Français
-<div align="center">
-  
-<img src="images/images.png" alt="" width="300" >
-  </div>
+
 <p align="center">
 <a href="https://twitter.com/_houssamm_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/houssam-ezzin-b16757155/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
