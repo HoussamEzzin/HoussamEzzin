@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-<img src="images/images.png" alt="" width="300">
+<img src="images/images.png" alt="" width="300" align="center">
 
 
 <h1 align="center">I'm Ezzin Houssam</h1>
 <h3 align="center">IT Engineer and Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=houssamezzin&label=Profile%20views&color=0e75b6&style=flat" alt="houssamezzin" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houssamezzin" alt="houssamezzin" /></a> </p>
+
 
 Mohammadia School of Engineers
 
