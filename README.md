@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<img src="images/images.png" alt="" width="300" align="center">
+<div align="center">
+  
+<img src="images/images.png" alt="" width="300" >
+  </div>
+  
 
 
 <h1 align="center">I'm Ezzin Houssam</h1>
