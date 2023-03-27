@@ -5,7 +5,7 @@
 
 
 <h1 align="center">I'm Ezzin Houssam</h1>
-<h3 align="center">IT Engineer and Full-Stack Developer</h3>
+<h3 align="center">IT Project Manager</h3>
 
 <div align="center">
   
