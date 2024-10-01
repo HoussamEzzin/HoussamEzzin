@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on web/mobile development projects, cybersecurity tools and machine learning.
 - 💬 Ask me about technology, philosophy and science !
-- 📫 How to reach me: ezzinhoussam@gmail.com & houssamezzin@student.emi.ac.ma
+- 📫 How to reach me: ezzinhoussam@gmail.com 
 - ⚡ Fun fact: Je parle Français
 
 <p align="center">
