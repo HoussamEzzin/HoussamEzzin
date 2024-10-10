@@ -41,10 +41,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=houssamezzin&" alt="houssamezzin" /></p>
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30" /> A Famous Fact/Quote:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30" /> 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“It’s hardware that makes a machine fast.  It’s software that makes a fast machine slow.”— Craig Bruce   </i>
+• <i>A 7RU3 M4573RPI3C3 D035 N07 7311 3V3RY7HING.” </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
